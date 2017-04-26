@@ -1,7 +1,7 @@
 # get-url-part
 
-Very simple and minimal library to get a part of the URL from 
-$_SERVER['REUQEST_URI'] with no dependencies. 
+Very simple and minimal PHP library to get a part of the URL from 
+$_SERVER['REQUEST_URI']. No dependencies. 
 
 Install: 
 
