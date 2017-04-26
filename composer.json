@@ -1,0 +1,13 @@
+{
+    "name": "diversen/get-url-part",
+    "description": "Very simple and minimal library to get a part of the URL from",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Iversen",
+            "email": "dennis.iversen@gmail.com"
+        }
+    ],
+    "require": {}
+}
