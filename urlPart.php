@@ -28,9 +28,6 @@ class urlPart  {
         $pathAry = explode('/', $parts['path'], $this->limit);
         $pathAry = array_values(array_filter($pathAry));
         
-        
-
-        
         if (isset($pathAry[$index])) {
             return $pathAry[$index];
         }
