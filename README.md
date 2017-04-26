@@ -12,7 +12,7 @@ Usage:
     use diversen\urlPart
 
     $urlPart = new urlPath();
-    $urlPArt->getPart(0); // Returns e.g. 'test' from https://localhost/test/etc/
+    $urlPArt->getPart(0); // Returns e.g. 'test' from http://localhost:8080/test/etc/
 
 Or as a static method: 
 
